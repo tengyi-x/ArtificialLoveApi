@@ -22,14 +22,14 @@ public class UserController: Controller {
     }
 
     [HttpPost]
-    public async Task<IActionResult> CreateUser([FromBody] User user) {
+    public async Task<IActionResult> CreateUser([FromBody] User user) { // when creating, don't include id- mongoDB will generate
         await _mongoDBService.CreateAsync(user);
         return NoContent();
     }
 
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateUser([FromRoute] string id,
-                                                [FromBody] User user) {
+                                                [FromBody] User user) { // when updating, include oriignal id for user
         await _mongoDBService.UpdateAsync(id, user);
         return NoContent();
     }
