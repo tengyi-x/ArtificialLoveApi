@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tengy\\htn2024\\ArtificialLove\\ArtificialLove.csproj": {}
+    "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\ArtificialLove.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tengy\\htn2024\\ArtificialLove\\ArtificialLove.csproj": {
+    "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\ArtificialLove.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tengy\\htn2024\\ArtificialLove\\ArtificialLove.csproj",
+        "projectUniqueName": "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\ArtificialLove.csproj",
         "projectName": "ArtificialLove",
-        "projectPath": "C:\\Users\\tengy\\htn2024\\ArtificialLove\\ArtificialLove.csproj",
+        "projectPath": "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\ArtificialLove.csproj",
         "packagesPath": "C:\\Users\\tengy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tengy\\htn2024\\ArtificialLove\\obj\\",
+        "outputPath": "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tengy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XRUlQXSzIAM=",
+  "dgSpecHash": "/051+OiBEnI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tengy\\htn2024\\ArtificialLove\\ArtificialLove.csproj",
+  "projectFilePath": "C:\\Users\\tengy\\htn2024\\ArtificialLoveApi\\ArtificialLove.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tengy\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\tengy\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
